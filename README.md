@@ -1,4 +1,3 @@
-# Codebreakers
-Trial Website for Coding Club.
 
+Trial Website
 https://anjali2201.github.io/CodingClub/
